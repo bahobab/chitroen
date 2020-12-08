@@ -1,14 +1,14 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+    <img alt="Gatsby" src="./chitroen2.svg" width="100" />
   </a>
 </p>
 
 # CH!TROEN: CHICAGO TOURS IN A 1976 2CV CITROEN
 
-This is a tourism promotion site that presents you with best spots and the best ways to see in Chicago.
-You will be touring in a open top legendary French CITROEN 2CV Charleston
+This is a tourism promotion site that offers you with the best spots and the best way to see in Chicago:
+You will be touring in a open top legendary 1976 French CITROEN 2CV Charleston
 
 ## Jamstack web app framwork
 
@@ -20,12 +20,13 @@ You will be touring in a open top legendary French CITROEN 2CV Charleston
 ## The Site
 
 The website is fully responsive and incredibly engaging and designed for maximum conversion.
-It provides beatiful features of the city of Chicago and offers vacationeers irresistible icentive to choose Chicago as their next vacation destination.
+It provides beautiful features of the city of Chicago and offers vacationeers irresistible icentive to choose Chicago as their next vacation destination.
 
-![](https://res.cloudinary.com/krikitue/image/upload/v1603729023/reddit-timer/feature_1_wnshm8.png)
+![](./2cvtour.jpg)
 
-## 💫 Deployed on Vercel
+## Live Site
 
+<!-- [![Deployed with Vercel](<img src="vercel.png" width="80px">)](https://chitroen.vercel.app/)  -->
 [![Deployed with Vercel](https://vercel.com/button)](https://chitroen.vercel.app/)
 
 <!-- ![You can see the site live here](https://chitroen.vercel.app/) -->

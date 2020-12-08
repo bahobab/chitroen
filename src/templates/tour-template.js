@@ -53,8 +53,7 @@ const Template = ({data}) => {
             </p>
           </div>
           <h4>starts on: {start}</h4>
-          <h4>duration: {days}
-            days</h4>
+          <h4>duration: {days} &nbsp;hours</h4>
           <p className={styles.desc}>{description}</p>
           <h2>Schedule:</h2>
           <div className={styles.journey}>
