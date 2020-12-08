@@ -10,6 +10,7 @@
 This is a tourism promotion site that offers you with the best spots and the best way to see in Chicago:
 You will be touring in a open top legendary 1976 French CITROEN 2CV Charleston
 
+![](./2cvtour.jpg)
 ## Jamstack web app framwork
 
 - Gatsby
@@ -22,8 +23,8 @@ You will be touring in a open top legendary 1976 French CITROEN 2CV Charleston
 The website is fully responsive and incredibly engaging and designed for maximum conversion.
 It provides beautiful features of the city of Chicago and offers vacationeers irresistible icentive to choose Chicago as their next vacation destination.
 
-![](./2cvtour.jpg)
 
+![](./chitours-mobile-friendly.jpg)
 ## Live Site
 
 <!-- [![Deployed with Vercel](<img src="vercel.png" width="80px">)](https://chitroen.vercel.app/)  -->
