@@ -35,6 +35,7 @@ const SEO = ({ title, description }) => {
       <meta name="description" content={description || siteDesc} />
       <meta name="image" content={image} />
       <meta name="keywords" content={keywords.join(',')} />
+      <meta name="robots" content="max-snippet:10, max-image-preview:large" />
 
       {/* facebook card */}
       <meta property="og:url" content={siteUrl} />
