@@ -2,9 +2,9 @@ import React from "react"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 // import { Link } from "gatsby"
 
+import { Layout } from "../components/Layout"
 import SEO from "../components/SEO"
 import Banner from "../components/Banner"
-import { Layout } from "../components/Layout"
 import styles from "../css/error.module.css"
 
 const Error = () => {
