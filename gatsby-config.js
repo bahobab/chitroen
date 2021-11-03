@@ -11,13 +11,14 @@ require("dotenv").config({
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: "Great World Tours",
+    title: "Great Chicago Tours in 2CV Citroen Charleston",
     description:
-      "Discover the world that you never thought existed. Look into the other direction and project yourself in your dream world!",
-    author: "Mamadou & Bineta",
-    twitterUsername: "@mamadou&bineta",
-    image: "/defaultBcg.jpeg",
+      "Discover Chicago that you never thought existed. Take a view in different angles and get the feeling that will transform you!",
+    author: "khoophdev@gmail.com",
+    twitterUsername: "@",
+    image: "/2cvtour.jpg",
     siteUrl: "https://chitours.netlify.app",
+    keywords: ["Chicago Tours", "Chicago Tourism", "Citroen in Chicago", "2CV Citroen Charleston", "Tours in Chicago", "Tourism in Chicago", "2CV Citroen"],
   },
   plugins: [
     `gatsby-plugin-sass`,

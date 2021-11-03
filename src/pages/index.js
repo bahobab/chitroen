@@ -14,7 +14,7 @@ import SEO from "../components/SEO"
 export default({data}) => (
   <div>
     <Layout>
-      <SEO title="Fun Chicago Tours" description="Enjoy a unique visit in Chicago"/>
+      <SEO title="Fun Chicago Tourism" description="Enjoy a unique visit in Chicago in a 2CV Charleston Citroen"/>
       <StyledHero home={true} img={data.defaultBcg.childImageSharp.fluid}>
         <Banner
           title="Chicago! 2CV Citroen Tours"

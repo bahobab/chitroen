@@ -10,7 +10,8 @@ const getData = graphql`
         siteDesc: description
         author
         siteUrl
-        image
+        image,
+        keywords,
         twitterUsername
       }
     }
@@ -25,6 +26,7 @@ const SEO = ({ title, description }) => {
     author,
     siteUrl,
     image,
+    keywords,
     twitterUsername,
   } = site.siteMetadata
 
@@ -32,6 +34,7 @@ const SEO = ({ title, description }) => {
     <Helmet htmlAttributes={{ lang: "en" }} title={`${title} | ${siteTitle}`}>
       <meta name="description" content={description || siteDesc} />
       <meta name="image" content={image} />
+      <meta name="keywords" content={keywords.join(',')} />
 
       {/* facebook card */}
       <meta property="og:url" content={siteUrl} />

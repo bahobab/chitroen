@@ -33,15 +33,15 @@ const About = () => {
         <article className={styles.aboutInfo}>
           <h4>You are Special</h4>
           <p>
-            After touring Chicago with us your will be a transformed as a happy
+            After touring Chicago with us your will be a transformed happy
             world citizen. Discover the unique, rich and amazing faces of the
             city of Chicago that you can ONLY see in a Citroen 2CV Charleston.
           </p>
           <p>
-            I you want have made it to Chicago then it belongs to us to make you
+            If you can make it to Chicago then it belongs to us to make you
             happy with an unforgetable souvenir that no one else will provide.
           </p>
-          <p>We have your front row seat ready for you!</p>
+          <p>We have a front row seat ready for you!</p>
           <button type="button" className="btn-primary">
             Read More
           </button>
